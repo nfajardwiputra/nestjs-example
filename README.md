@@ -34,3 +34,11 @@ $ npm run format
 # unit, e2e and coverage tests
 $ npm run test
 ```
+
+## Lib
+```bash
+# example install library from local
+npm install --save /Users/nfajardwiputra/Project/AIT/NODEJS/nestjs-lib/dist
+# example install library from github
+npm install --save https://github.com/nfajardwiputra/nestjs-lib.git#master
+```
